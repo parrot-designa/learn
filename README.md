@@ -5,3 +5,6 @@
 1. 使用subtree命令添加子项目
 
 git subtree add --prefix=child git@github.com:parrot-designa/learn-react-core.git main
+
+2. 使用subtree命令添加的子项目修改啥的可以被主项目实时检测到 相当于是一个目录
+
